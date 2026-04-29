@@ -1,4 +1,4 @@
-# pygoo
+# PyGoo: Real2Sim Alignment using Differentiable Simulation and Rendering
 By Justin Sasek
 
 A Python mass-spring physics simulator with PyTorch-based differentiable physics and a pygame UI. Simulate soft body dynamics and optimize parameters through gradient-based learning.
