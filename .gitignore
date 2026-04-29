@@ -12,6 +12,7 @@ claude*
 data
 logs
 debug_all_frames.png
+final.pdf
 
 # ---- Generated demo/optimization artifacts ----
 out/demo/

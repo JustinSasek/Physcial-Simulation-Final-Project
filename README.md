@@ -5,11 +5,6 @@ A Python mass-spring physics simulator with PyTorch-based differentiable physics
 
 ## Installation
 
-### Requirements
-- Python ≥ 3.10
-- PyTorch ≥ 2.2
-- pygame-ce ≥ 2.5.3
-
 ### Setup
 
 1. Clone the repository:
