@@ -1,0 +1,63 @@
+# ---- Project-specific ----
+/build/
+goo*_m1mac
+.envrc
+br
+run
+debug
+bd
+imgui.ini
+goo_cpp_screenshot.png
+claude*
+data
+logs
+debug_all_frames.png
+
+# ---- Generated demo/optimization artifacts ----
+out/demo/
+out/optimization/
+out/eval/
+
+# ---- Python bytecode / caches ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- Packaging / build outputs ----
+*.egg-info/
+.eggs/
+dist/
+site/
+pip-wheel-metadata/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Test / coverage ----
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# ---- Type checking / lint / tooling ----
+.mypy_cache/
+.pytype/
+.ruff_cache/
+.nox/
+.tox/
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
