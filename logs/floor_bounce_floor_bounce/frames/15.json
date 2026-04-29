@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "config": {
+    "particle_mass": 1.0,
+    "max_spring_dist": 0.35,
+    "floor_y": -0.5,
+    "floor_enabled": true,
+    "gravity_enabled": true,
+    "springs_enabled": true,
+    "damping_enabled": true,
+    "floor_bounce": 0.5103221535682678,
+    "damping_stiffness": 1.0,
+    "gravity_g": -9.800000190734863,
+    "spring_stiffness": 100.0,
+    "time_step": 0.0005000000237487257
+  },
+  "state": {
+    "pos": [
+      [
+        -0.1463414579629898,
+        -0.007499999832361937
+      ]
+    ],
+    "vel": [
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "mass": [
+      1.0
+    ],
+    "fixed": [
+      false
+    ],
+    "edges": [],
+    "rest_len": [],
+    "edge_k": []
+  }
+}

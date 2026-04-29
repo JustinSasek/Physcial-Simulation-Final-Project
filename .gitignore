@@ -8,10 +8,9 @@ debug
 bd
 imgui.ini
 goo_cpp_screenshot.png
-claude*
-logs
 debug_all_frames.png
 final.pdf
+trash
 
 # ---- Generated demo/optimization artifacts ----
 out/demo/
