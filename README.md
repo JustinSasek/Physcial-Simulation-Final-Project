@@ -9,14 +9,13 @@ A Python mass-spring physics simulator with PyTorch-based differentiable physics
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/JustinSasek/sim-world-of-goo.git
-git checkout final
+git clone https://github.com/JustinSasek/Physcial-Simulation-Final-Project.git
 cd goo
 ```
 
 2. Create and activate a conda environment:
 ```bash
-conda create -n sim python=3.11.15
+conda create -n sim python=3.11.15 -y
 conda activate sim
 ```
 
